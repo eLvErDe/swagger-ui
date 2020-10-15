@@ -51,6 +51,7 @@ export default function SwaggerUI(opts) {
     defaultModelsExpandDepth: 1,
     showExtensions: false,
     showCommonExtensions: false,
+    showAlternativeSchemaExample: false,
     withCredentials: undefined,
     supportedSubmitMethods: [
       "get",
